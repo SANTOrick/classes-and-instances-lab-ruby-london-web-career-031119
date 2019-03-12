@@ -1,6 +1,6 @@
 class Dog
 end
 
-fido
-snoopy
-lassie
+Dog.fido
+Dog.snoopy
+Dog.lassie
