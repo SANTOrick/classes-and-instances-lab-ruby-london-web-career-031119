@@ -1,3 +1,4 @@
 class Person
 end
-Person.alan_kay
+
+alan_kay = Person.new
